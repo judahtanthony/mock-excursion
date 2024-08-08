@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.svg$
+Allow: /*.tiff$
+Allow: /*.mp4$
